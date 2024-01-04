@@ -1,6 +1,7 @@
 ## Introdução
 
-Bem-vindo ao meu projeto de análise de dados sobre acidentes em rodovias federais no Brasil. Nesta análise, explorei conjuntos de dados relacionados a acidentes rodoviários, buscando insights e padrões significativos.
+
+Bem-vindo ao meu projeto de análise de dados sobre acidentes em rodovias federais no Brasil, conduzido exclusivamente utilizando Python no Jupyter Notebook. Manipulei e processei os conjuntos de dados em formato CSV dos anos de 2007 a 2015, criando gráficos significativos para explorar padrões e insights nos acidentes rodoviários.
 No arquivo jupyter notebbok você encontrara mais informações.
 
 ## Objetivos

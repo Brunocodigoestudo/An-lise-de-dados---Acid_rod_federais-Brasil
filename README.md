@@ -1,6 +1,7 @@
 ## Introdução
 
 Bem-vindo ao meu projeto de análise de dados sobre acidentes em rodovias federais no Brasil. Nesta análise, explorei conjuntos de dados relacionados a acidentes rodoviários, buscando insights e padrões significativos.
+No arquivo jupyter notebbok você encontrara mais informações.
 
 ## Objetivos
 
@@ -17,13 +18,11 @@ No período de 2007 a 2015, a cidade com mais acidentes no estado de Minas Gerai
 
 ### Gráficos
 
-<img src="https://github.com/Brunocodigoestudo/AnalisedeDados/assets/121304805/0546af1a-5ff4-4a83-8966-0118edd23e81" width="600" height="400">
-
-
-
-
-
+<div style="display: flex;">
+  <img src="https://github.com/Brunocodigoestudo/AnalisedeDados/assets/121304805/0546af1a-5ff4-4a83-8966-0118edd23e81" width="600" height="400">
+  <img src="https://github.com/Brunocodigoestudo/imagens/blob/main/tipodeacidente.png" width="600" height="400">
+</div>
 
 ## Agradecimentos
 
-Agradeço [quem contribuiu ou forneceu dados] por tornar este projeto possível.)
+Agradeço [datatran] por tornar este projeto possível.

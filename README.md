@@ -15,16 +15,18 @@ Utilizei dados do [datatran] para o ano [2007-2015] que incluem informações so
 
 ![csv_usados](https://github.com/Brunocodigoestudo/AnalisedeDados-Acidentes-rodovias-federais-Brasil/assets/121304805/7333b792-b94d-4cfa-a71c-b38cdee56125)
 
-### Resultados
-
-No período de 2007 a 2015, a cidade com mais acidentes no estado de Minas Gerais (MG) foi registrada com 213.885 ocorrências. O tipo de acidente mais proeminente foi o atropelamento de pedestres, totalizando 106.979 incidentes. Estes dados indicam a necessidade de medidas específicas de segurança viária, com foco em prevenção de atropelamentos.
-
 ### Gráficos
 
 <div style="display: flex;">
   <img src="https://github.com/Brunocodigoestudo/AnalisedeDados/assets/121304805/0546af1a-5ff4-4a83-8966-0118edd23e81" width="600" height="400">
   <img src="https://github.com/Brunocodigoestudo/imagens/blob/main/tipodeacidente.png" width="600" height="400">
 </div>
+
+### Resultados
+
+No período de 2007 a 2015, a cidade com mais acidentes no estado de Minas Gerais (MG) foi registrada com 213.885 ocorrências. O tipo de acidente mais proeminente foi o atropelamento de pedestres, totalizando 106.979 incidentes. Estes dados indicam a necessidade de medidas específicas de segurança viária, com foco em prevenção de atropelamentos.
+
+
 
 ## Agradecimentos
 

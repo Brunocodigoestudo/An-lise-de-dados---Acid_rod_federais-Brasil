@@ -13,6 +13,8 @@ No arquivo jupyter notebbok você encontrara mais informações.
 
 Utilizei dados do [datatran] para o ano [2007-2015] que incluem informações sobre localização e causas dos acidentes.
 
+![csv_usados](https://github.com/Brunocodigoestudo/AnalisedeDados-Acidentes-rodovias-federais-Brasil/assets/121304805/7333b792-b94d-4cfa-a71c-b38cdee56125)
+
 ### Resultados
 
 No período de 2007 a 2015, a cidade com mais acidentes no estado de Minas Gerais (MG) foi registrada com 213.885 ocorrências. O tipo de acidente mais proeminente foi o atropelamento de pedestres, totalizando 106.979 incidentes. Estes dados indicam a necessidade de medidas específicas de segurança viária, com foco em prevenção de atropelamentos.
